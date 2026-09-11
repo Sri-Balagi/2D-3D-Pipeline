@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "c4a53cfc883c66d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffa26f3dc9fb4432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be23061b79e001be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VoxelForge/src/components/simulation/SimulationPanel.tsx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SimulationPanel.tsx"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf5041ff503e13a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4165db669b1886e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9be6d7aa552a9856",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3c84350274080f37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4d74e75c1fbdc275",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfc9321d43023c84",
+    "type": "split",
+    "children": [
+      {
+        "id": "7662863a9eca008f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9b91f9120f564e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9566f11422e9bbe6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "79353cf1fab52d94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "53f364f38a66db06",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "035da66bd6ed1f4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "be23061b79e001be",
+  "lastOpenFiles": [
+    "VoxelForge/src/components/ai/CommandBar.tsx.md",
+    "VoxelForge/src/App.css.md",
+    "VoxelForge/src/components/simulation/SimulationPanel.tsx.md",
+    "VoxelForge/package-lock.json.md",
+    "VoxelForge/validation.md",
+    "VoxelForge/VoxelForge/Untitled.canvas.md",
+    "VoxelForge/VoxelForge/Untitled.base.md",
+    "VoxelForge/VoxelForge/Welcome.md",
+    "VoxelForge/VoxelForge",
+    "VoxelForge/src/utils/geometryFactory.ts.md",
+    "VoxelForge/src/utils",
+    "VoxelForge/src/types/world.ts.md",
+    "VoxelForge/src/types/semantic.ts.md",
+    "VoxelForge/src/types",
+    "VoxelForge/src/state/useWorldStore.ts.md",
+    "VoxelForge/src/state/useUIStore.ts.md",
+    "VoxelForge/src/state/useSimulationStore.ts.md",
+    "VoxelForge/src/state",
+    "VoxelForge/src/services/validation.ts.md",
+    "VoxelForge/src/services/reconstruction.ts.md",
+    "VoxelForge/src/services/modelLoader.ts.md",
+    "VoxelForge/src/services/commandInterpreter.ts.md",
+    "VoxelForge/src/services/api.ts.md",
+    "VoxelForge/src/services",
+    "VoxelForge/src/mock/mechanical/data.ts.md",
+    "VoxelForge/src/mock/mechanical",
+    "VoxelForge/src/mock/architecture/data.ts.md",
+    "VoxelForge/src/mock/architecture",
+    "VoxelForge/src/mock/anatomy/data.ts.md",
+    "VoxelForge/src/mock/anatomy",
+    "VoxelForge/src/mock",
+    "VoxelForge/src/components/world/WorldTree.tsx.md",
+    "VoxelForge/src/components/world",
+    "VoxelForge/src/components/visualization/ViewStudio.tsx.md",
+    "VoxelForge/src/components/viewer/Viewport.tsx.md",
+    "VoxelForge/src/components/viewer/GLTFModel.tsx.md",
+    "Untitled.canvas"
+  ]
+}

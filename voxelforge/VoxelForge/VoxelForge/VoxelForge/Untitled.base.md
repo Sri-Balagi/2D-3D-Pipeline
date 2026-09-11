@@ -1,0 +1,11 @@
+# Untitled.base
+
+``yaml
+views:
+  - type: table
+    name: Table
+    sort:
+      - property: file.name
+        direction: ASC
+
+``
